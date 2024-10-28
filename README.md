@@ -41,6 +41,8 @@ He/Him
   - **Machine Learning:** Integrated machine learning frameworks (e.g., AWS SageMaker) for predictive analytics and model deployment, facilitating advanced analytics capabilities.
   
   **Technologies:** Python, Prefect, dbt, AWS S3, Redshift, QuickSight, AWS SageMaker
+
+  ![Data Architecture Diagram](./data_architecture.drawio.svg)
   
 
 ### 2. **Data Ingestion Tools**
