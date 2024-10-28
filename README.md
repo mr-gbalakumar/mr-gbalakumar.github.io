@@ -27,32 +27,24 @@ He/Him
 ## ⚡ Fun fact:
 "I’m all about exploring new places and soaking up different cultures! My goal is to hit up at least one new country each year—who knows what adventures await?"
 
-## 💼 Projects
+## 💼 My Experience
 
-### 1. **Data Architecture**
+I've had the opportunity to design and implement modern data architectures that support scalable data processing, analytics, and machine learning workflows. My expertise covers various areas of data engineering, including:
 
-  **Description:** This project showcases a modern data architecture designed to support scalable data processing, analytics, and machine learning workflows. The architecture integrates various components to ensure efficient data ingestion, transformation, and visualization, enabling data-driven decision-making.
-  
-  **Key Components:**
-  - **Data Ingestion:** Implemented various data ingestion strategies to collect data from multiple sources, including databases, APIs, and third-party services.
-  - **Data Storage:** Utilized cloud-based storage solutions (e.g., AWS S3, Redshift) for efficient data storage and retrieval, ensuring high availability and scalability.
-  - **Data Transformation:** Employed ETL processes using tools like Prefect and dbt for transforming raw data into structured formats suitable for analysis.
-  - **Data Analytics:** Leveraged business intelligence tools (e.g., QuickSight, Tableau) to create dashboards and reports, providing insights into business performance.
-  - **Machine Learning:** Integrated machine learning frameworks (e.g., AWS SageMaker) for predictive analytics and model deployment, facilitating advanced analytics capabilities.
-  
-  **Technologies:** Python, Prefect, dbt, AWS S3, Redshift, QuickSight, AWS SageMaker
+- **Data Ingestion:** Designing strategies to collect data from multiple sources such as databases, APIs, and third-party services.
+- **Data Storage:** Leveraging cloud storage solutions like AWS S3 and Redshift to ensure high availability, efficient data storage, and retrieval.
+- **Data Transformation:** Implementing ETL processes using tools such as Prefect and dbt to convert raw data into structured formats suitable for analysis.
+- **Data Analytics:** Using business intelligence tools like QuickSight and Tableau to build dashboards and reports that provide insights into business performance.
+- **Machine Learning:** Integrating machine learning frameworks (e.g., AWS SageMaker) for predictive analytics and model deployment, enhancing advanced analytics capabilities.
 
-  ![Data Architecture Diagram](./data_architecture.drawio.svg)
-  
+**Technologies:** Python, Prefect, dbt, AWS S3, Redshift, QuickSight, AWS SageMaker, Airbyte
 
-### 2. **Data Ingestion Tools**
-   - **Description:** Developed a robust ETL pipeline for ingesting data from various sources into a centralized data warehouse. Utilized AWS services like S3, Redshift, and Lambda for seamless data processing.
-   - **Technologies:** Python, AWS (S3, Redshift, Lambda), Airflow
+I architected an end-to-end data pipeline covering all stages, from data ingestion to analytics and machine learning, providing an optimized and scalable data infrastructure. Starting with data ingestion, I designed workflows that capture and transform raw data from multiple sources into structured formats, then engineered a robust data storage solution using AWS technologies. Data transformation is streamlined with dbt on Redshift, ensuring data quality and accessibility, while orchestration with Prefect automates the flow for reliable processing.
 
-### 3. **Data Transformation Framework**
-   - **Description:** Built a scalable data transformation framework using dbt to streamline data modeling and transformation processes. This framework improved data quality and accessibility for analytics teams.
-   - **Technologies:** dbt, Redshift, SQL
+To support business intelligence and machine learning, I integrated data visualization via QuickSight and initiated a semantic layer with Cube.dev for data democratization across teams. This architecture empowers decision-making, scales with business needs, and supports both predictive analytics and machine learning use cases.
 
+
+![Data Architecture Diagram](./data_architecture.drawio.svg)
 
 <!---
 mr-gbalakumar/mr-gbalakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
